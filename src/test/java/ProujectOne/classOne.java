@@ -6,6 +6,7 @@ public class classOne {
 		// TODO Auto-generated method stub
 		System.out.println("First project");
 		System.out.println("Testing Git");
+		System.out.println("Testing Git Pull");
 
 	}
 
