@@ -7,8 +7,8 @@ public class classOne {
 		System.out.println("Testing Git");
 		System.out.println("Testing Git Pull");
 		int a = 10;
-		int b = 5;
-		int c = a + b;
+		int d = 5;
+		int c = a + d;
 		System.out.println(c);
 	}
 
